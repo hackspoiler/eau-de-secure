@@ -1,2 +1,2 @@
-# eau-de-secure
+# Eau-de-Secure
 Lets secure sum shit
